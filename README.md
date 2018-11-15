@@ -1,2 +1,2 @@
 # ADCoin
-基于ERC20的ADC代币智能合约发布到以太坊公链中并基于web3j提供Java API给平台调用
+基于ERC20的ADC代币智能合约发布到geth客户端搭建的以太坊私链中并基于web3j提供Java API给平台调用
